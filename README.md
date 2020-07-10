@@ -98,7 +98,7 @@ however there are currently some formatting and logistical problems
 in doing so.
 
 Therefore we have a _temporary_ site at
- htts://sysdiary.org/slmsrams
+ htts://sysdiary.org/slmsrams [broken link]
 
 Edits to the Git hub master pages update the pages at that site
 automatically (once a minute).
